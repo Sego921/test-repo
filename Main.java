@@ -1,9 +1,6 @@
 import java.util.ArrayList;
 import java.util.Comparator;
 
-/**
- * Created by user on 8/6/2015.
- */
 public class Main {
 
     public static void main(String[] args) {

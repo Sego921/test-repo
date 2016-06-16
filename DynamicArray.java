@@ -1,6 +1,4 @@
-/**
- * Created by user on 8/6/2015.
- */
+
 public class DynamicArray extends DynamicArrayInterface {
     private User[] users;
     private boolean isEmpty = true;

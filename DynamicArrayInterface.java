@@ -1,6 +1,4 @@
-/**
- * Created by user on 8/6/2015.
- */
+
 public abstract class DynamicArrayInterface {
     abstract void add(User user);
     abstract void add(User user, int index);
